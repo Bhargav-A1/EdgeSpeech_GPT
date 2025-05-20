@@ -1,0 +1,5 @@
+Requirements
+pip install openai vosk sounddevice pyttsx3
+
+Additionally:
+Download a Vosk model (e.g., vosk-model-small-en-us-0.15) from https://alphacephei.com/vosk/models and extract it into the project root as model/.
