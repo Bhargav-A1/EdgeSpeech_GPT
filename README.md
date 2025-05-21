@@ -1,6 +1,6 @@
 
 # Speech_GPT
-Inspired by Samsung
+#Inspired by Samsung
 Offline Voice Assistant with ChatGPT Integration
 EdgeSpeechGPT is a lightweight, real-time, on-device voice assistant that combines offline speech recognition using Vosk, OpenAI's GPT-3.5-turbo for conversational AI, and text-to-speech output using pyttsx3. Designed for performance in resource-constrained environments, this project demonstrates how on-device voice AI systems can interact naturally without requiring cloud-based ASR or TTS engines.
 
